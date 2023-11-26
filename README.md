@@ -1,9 +1,7 @@
 # miniprojet
 
-## travail en cour
-
-- dévlopper le menu déroulant
-- la carte mère cliquable
+C'est un projet dévlopper pour présenter les différents composants d'un ordinateur
+(dev pour cour de NSI sept 2023)
 
 ## charte graphique
 -     p             font-size: 17px;   font-family: 'abril fatface', cursive;
